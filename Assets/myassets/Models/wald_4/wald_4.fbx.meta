@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: ce7e9485327bdb74682ac5d812dab0a7
+timeCreated: 1488043542
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baumwald
+    100002: Camera
+    100004: Circle
+    100006: Grassblock1
+    100008: GrassBlock2
+    100010: Grassblock3
+    100012: Grassblock3.001
+    100014: Grassblock3.002
+    100016: Grassblock3.003
+    100018: Grassblock3.004
+    100020: Grassblock4
+    100022: Lamp
+    100024: //RootNode
+    100026: Water
+    100028: Grassblock4.001
+    400000: baumwald
+    400002: Camera
+    400004: Circle
+    400006: Grassblock1
+    400008: GrassBlock2
+    400010: Grassblock3
+    400012: Grassblock3.001
+    400014: Grassblock3.002
+    400016: Grassblock3.003
+    400018: Grassblock3.004
+    400020: Grassblock4
+    400022: Lamp
+    400024: //RootNode
+    400026: Water
+    400028: Grassblock4.001
+    2300000: baumwald
+    2300002: Circle
+    2300004: Grassblock1
+    2300006: GrassBlock2
+    2300008: Grassblock3
+    2300010: Grassblock3.001
+    2300012: Grassblock3.002
+    2300014: Grassblock3.003
+    2300016: Grassblock3.004
+    2300018: Grassblock4
+    2300020: Water
+    2300022: Grassblock4.001
+    3300000: baumwald
+    3300002: Circle
+    3300004: Grassblock1
+    3300006: GrassBlock2
+    3300008: Grassblock3
+    3300010: Grassblock3.001
+    3300012: Grassblock3.002
+    3300014: Grassblock3.003
+    3300016: Grassblock3.004
+    3300018: Grassblock4
+    3300020: Water
+    3300022: Grassblock4.001
+    4300000: baumwald
+    4300002: Water
+    4300004: Grassblock3.004
+    4300006: Grassblock3.003
+    4300008: Grassblock3.002
+    4300010: Grassblock3.001
+    4300012: Circle
+    4300014: Grassblock1
+    4300016: GrassBlock2
+    4300018: Grassblock3
+    4300020: Grassblock4
+    4300022: Grassblock4.001
+    6400000: baumwald
+    6400002: Circle
+    6400004: Grassblock1
+    6400006: GrassBlock2
+    6400008: Grassblock3
+    6400010: Grassblock3.001
+    6400012: Grassblock3.002
+    6400014: Grassblock3.003
+    6400016: Grassblock3.004
+    6400018: Grassblock4
+    6400020: Water
+    6400022: Grassblock4.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

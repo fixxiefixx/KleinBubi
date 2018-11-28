@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/myassets/scenes/levelselect.unity
+    guid: 99accd613cb6c4043aec732b879b219e
+  - enabled: 1
+    path: Assets/myassets/scenes/testscene.unity
+    guid: 56bd054b107051147bb7db85a865b321
+  - enabled: 1
+    path: Assets/myassets/scenes/grassland.unity
+    guid: 12a413d56c0681841a86747072816bf9
+  - enabled: 1
+    path: Assets/myassets/scenes/burg.unity
+    guid: 7f1764b1ba7d8b548ae0122f5ba9f1e6
+  - enabled: 0
+    path: Assets/myassets/scenes/finsterwald.unity
+    guid: 965b7818c1b8b2e4c91b4a36d8a0a279
+  - enabled: 1
+    path: Assets/myassets/scenes/hillstest.unity
+    guid: fe594c956b54d8a498cb5f0e4d8414aa
+  - enabled: 1
+    path: Assets/myassets/scenes/floatingisland.unity
+    guid: d96c9040b846daf41abf06702b794e30
+  - enabled: 1
+    path: Assets/myassets/scenes/city.unity
+    guid: 8c3a6d0b434e30b42b7901a7d4b9bdf1
+  - enabled: 1
+    path: Assets/myassets/scenes/level2d.unity
+    guid: e3062553464e6dc4eb0b052daae07bc1
+  - enabled: 1
+    path: Assets/myassets/scenes/wald_1.unity
+    guid: 66af34650f08222468224ecf1d9e56a2
+  - enabled: 1
+    path: Assets/myassets/scenes/wald_2.unity
+    guid: 9dbcbfe34328d45458f270c2d3328dff
+  - enabled: 1
+    path: Assets/myassets/scenes/wald_3.unity
+    guid: 7e91c61f9f4ebb946abbb7f6e82bba6c
+  - enabled: 1
+    path: Assets/myassets/scenes/wald_4.unity
+    guid: 00d38875afa122b4187fef8c04eaca70
+  - enabled: 1
+    path: Assets/myassets/scenes/berg_1.unity
+    guid: dd475aaa019534044ada568adc089398
+  - enabled: 1
+    path: Assets/myassets/scenes/berg_2.unity
+    guid: 6986175e6d6476b4da053f81fcc3fd01
+  - enabled: 1
+    path: Assets/myassets/scenes/berg_3.unity
+    guid: c5a9d3666e1701d4e915a1b34e009132
+  - enabled: 1
+    path: Assets/myassets/scenes/berg_4.unity
+    guid: 26ac8f1adc175904a94f63a9a3136ee9
+  - enabled: 1
+    path: Assets/myassets/scenes/wolken_1.unity
+    guid: 35100a89d869cc9479771612beac7754
+  - enabled: 1
+    path: Assets/myassets/scenes/wolken_2.unity
+    guid: 13777697035a3944391f182205cbe91a
+  - enabled: 1
+    path: Assets/myassets/scenes/wolken_3.unity
+    guid: 0623ca8009bc61540a39a3f7514b080e
+  m_configObjects: {}

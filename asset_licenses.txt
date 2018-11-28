@@ -1,0 +1,29 @@
+===Textures===
+qubodup-light_wood.png http://opengameart.org/content/light-wood-1024x1024 License: CC0 qubodup
+
+textures.com
+
+
+===Sounds===
+wheel.wav http://soundbible.com/1178-Tires-Squealing.html    License: Attribution 3.0   Mike Koenig
+
+win.wav http://www.freesound.org/people/GameAudio/sounds/220184/ License CC0 GameAudio
+
+
+===Music===
+Exhilarate.mp3: "Exhilarate" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Move Forward.mp3: "Move Forward" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Danger Storm.mp3: "Danger Storm" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Dreamy Flashback.mp3: "Dreamy Flashback" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
